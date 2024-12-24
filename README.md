@@ -9,11 +9,11 @@
 <img align="right" alt="Hacking" width="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" >
 <br>
 
-  - 🌱 I’m currently learning Web Development and other programming languages
+  - 🌱 I’m currently learning everything related to DevOps.
   
-  - 📫 How to reach me **adampithewan@gmail.com**
+  - 📫 How to reach me **axel233@gmail.com**
   
-  - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+  - 🏎️ Formula 1 and photography lover 📷.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
