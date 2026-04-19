@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23714B67&size=30&center=true&vCenter=true&width=800&height=150&lines=Odoo+Backend+Developer;ERP+Implementation+%26+Customization;Python+%26+PostgreSQL+Enthusiast;Computer+Systems+Student;Active+Learner/Researcher">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23714B67&size=30&center=true&vCenter=true&width=800&height=150&lines=Odoo+Backend+Developer;ERP+Implementation+%26+Customization;Python+%26+PostgreSQL+Enthusiast;Computer+Systems+Engineer;Active+Learner/Researcher">
   </a>
 </p>
 
